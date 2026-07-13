@@ -2,7 +2,7 @@
 
 This is a project to attempt to make a free slide rule out of a PCB. The PCB is made using the free software [KiCad](https://www.kicad.org/)
 
-![Screen shot](docs/shots.png)
+![Screen shot](docs/shot.png)
 
 ## Reference Scales
 
